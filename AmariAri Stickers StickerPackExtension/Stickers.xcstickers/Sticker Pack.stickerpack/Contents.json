@@ -1,9 +1,26 @@
 {
+  "stickers" : [
+    {
+      "filename" : "WorkSmart.sticker"
+    },
+    {
+      "filename" : "BeCourageous.sticker"
+    },
+    {
+      "filename" : "SmilePower.sticker"
+    },
+    {
+      "filename" : "PlanToWin.sticker"
+    },
+    {
+      "filename" : "StayHumble.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "large"
   }
 }

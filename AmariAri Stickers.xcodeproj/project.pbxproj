@@ -118,6 +118,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 0413A24622DFD7940095713C;
 			productRefGroup = 0413A24E22DFD7940095713C /* Products */;
@@ -278,7 +279,7 @@
 				DEVELOPMENT_TEAM = 3PU85VZT37;
 				INFOPLIST_FILE = "AmariAri Stickers StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.WEBDMG.AmariAri-Stickers.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = com.amariari.stickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -293,7 +294,7 @@
 				DEVELOPMENT_TEAM = 3PU85VZT37;
 				INFOPLIST_FILE = "AmariAri Stickers StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.WEBDMG.AmariAri-Stickers.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = com.amariari.stickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -309,7 +310,7 @@
 				DEVELOPMENT_TEAM = 3PU85VZT37;
 				INFOPLIST_FILE = "AmariAri Stickers/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.WEBDMG.AmariAri-Stickers";
+				PRODUCT_BUNDLE_IDENTIFIER = com.amariari.stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -325,7 +326,7 @@
 				DEVELOPMENT_TEAM = 3PU85VZT37;
 				INFOPLIST_FILE = "AmariAri Stickers/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.WEBDMG.AmariAri-Stickers";
+				PRODUCT_BUNDLE_IDENTIFIER = com.amariari.stickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";

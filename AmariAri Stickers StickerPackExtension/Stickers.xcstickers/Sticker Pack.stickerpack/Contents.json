@@ -1,4 +1,11 @@
 {
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "large"
+  },
   "stickers" : [
     {
       "filename" : "WorkSmart.sticker"
@@ -14,13 +21,27 @@
     },
     {
       "filename" : "StayHumble-LG.sticker"
+    },
+    {
+      "filename" : "Keep On Trying.sticker"
+    },
+    {
+      "filename" : "Merry Christmas.sticker"
+    },
+    {
+      "filename" : "Never Give Up -.sticker"
+    },
+    {
+      "filename" : "That's so Dope - png.sticker"
+    },
+    {
+      "filename" : "Yeah!-1.sticker"
+    },
+    {
+      "filename" : "You Got This-1.sticker"
+    },
+    {
+      "filename" : "You're Awesome-1.sticker"
     }
-  ],
-  "info" : {
-    "version" : 1,
-    "author" : "xcode"
-  },
-  "properties" : {
-    "grid-size" : "large"
-  }
+  ]
 }

@@ -1,91 +1,91 @@
 {
   "images" : [
     {
-      "size" : "29x29",
-      "idiom" : "iphone",
       "filename" : "AppIcon-58px-29pt@2x.png",
-      "scale" : "2x"
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
     },
     {
-      "size" : "29x29",
-      "idiom" : "iphone",
       "filename" : "AppIcon-87px-29pt@3x.png",
-      "scale" : "3x"
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
     },
     {
-      "size" : "60x45",
-      "idiom" : "iphone",
       "filename" : "AppIcon-120x90px-60x45pt@2x.png",
-      "scale" : "2x"
-    },
-    {
-      "size" : "60x45",
       "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x45"
+    },
+    {
       "filename" : "AppIcon-180x135px-60x45pt@3x.png",
-      "scale" : "3x"
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x45"
     },
     {
-      "size" : "29x29",
-      "idiom" : "ipad",
       "filename" : "AppIcon-58px-29pt@2x-1.png",
-      "scale" : "2x"
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "29x29"
     },
     {
-      "size" : "67x50",
-      "idiom" : "ipad",
       "filename" : "AppIcon-134x100px-67x50pt@2x.png",
-      "scale" : "2x"
-    },
-    {
-      "size" : "74x55",
       "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "67x50"
+    },
+    {
       "filename" : "AppIcon-148x110px-74x55pt@2x.png",
-      "scale" : "2x"
-    },
-    {
-      "size" : "1024x1024",
-      "idiom" : "ios-marketing",
-      "filename" : "AppIcon-1024x1024px.png",
-      "scale" : "1x"
-    },
-    {
-      "size" : "27x20",
-      "idiom" : "universal",
-      "filename" : "AppIcon-54x40px-27x20pt@2x.png",
+      "idiom" : "ipad",
       "scale" : "2x",
-      "platform" : "ios"
+      "size" : "74x55"
     },
     {
-      "size" : "27x20",
-      "idiom" : "universal",
-      "filename" : "AppIcon-81x60px-27x20pt@3x.png",
-      "scale" : "3x",
-      "platform" : "ios"
-    },
-    {
-      "size" : "32x24",
-      "idiom" : "universal",
-      "filename" : "AppIcon-64x48px-32x24pt@2x.png",
-      "scale" : "2x",
-      "platform" : "ios"
-    },
-    {
-      "size" : "32x24",
-      "idiom" : "universal",
-      "filename" : "AppIcon-96x72px-32x24pt@3x.png",
-      "scale" : "3x",
-      "platform" : "ios"
-    },
-    {
-      "size" : "1024x768",
+      "filename" : "icon21.png",
       "idiom" : "ios-marketing",
-      "filename" : "AppIcon-1024x768px.png",
       "scale" : "1x",
-      "platform" : "ios"
+      "size" : "1024x1024"
+    },
+    {
+      "filename" : "AppIcon-54x40px-27x20pt@2x.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "27x20"
+    },
+    {
+      "filename" : "AppIcon-81x60px-27x20pt@3x.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "27x20"
+    },
+    {
+      "filename" : "AppIcon-64x48px-32x24pt@2x.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "2x",
+      "size" : "32x24"
+    },
+    {
+      "filename" : "AppIcon-96x72px-32x24pt@3x.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "scale" : "3x",
+      "size" : "32x24"
+    },
+    {
+      "filename" : "AppIcon-1024x768px.png",
+      "idiom" : "ios-marketing",
+      "platform" : "ios",
+      "scale" : "1x",
+      "size" : "1024x768"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }

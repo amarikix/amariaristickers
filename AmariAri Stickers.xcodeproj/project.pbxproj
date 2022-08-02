@@ -3,33 +3,33 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 55;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0413A25222DFD7950095713C /* AmariAri Stickers StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 0413A25122DFD7950095713C /* AmariAri Stickers StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		0413A25622DFD7950095713C /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 0413A25522DFD7950095713C /* Stickers.xcstickers */; };
-		0413A25722DFD7950095713C /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 0413A25522DFD7950095713C /* Stickers.xcstickers */; };
+		161F52A52899BEB2002C00F3 /* AmariAri Stickers StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 161F52A42899BEB2002C00F3 /* AmariAri Stickers StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		161F52A92899BEB2002C00F3 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 161F52A82899BEB2002C00F3 /* Stickers.xcstickers */; };
+		161F52AA2899BEB2002C00F3 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 161F52A82899BEB2002C00F3 /* Stickers.xcstickers */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0413A25322DFD7950095713C /* PBXContainerItemProxy */ = {
+		161F52A62899BEB2002C00F3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 0413A24722DFD7940095713C /* Project object */;
+			containerPortal = 161F529A2899BEB2002C00F3 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 0413A25022DFD7950095713C;
+			remoteGlobalIDString = 161F52A32899BEB2002C00F3;
 			remoteInfo = "AmariAri Stickers StickerPackExtension";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		0413A25D22DFD7950095713C /* Embed App Extensions */ = {
+		161F52B02899BEB2002C00F3 /* Embed App Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				0413A25222DFD7950095713C /* AmariAri Stickers StickerPackExtension.appex in Embed App Extensions */,
+				161F52A52899BEB2002C00F3 /* AmariAri Stickers StickerPackExtension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -37,25 +37,25 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0413A24D22DFD7940095713C /* AmariAri Stickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AmariAri Stickers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0413A25122DFD7950095713C /* AmariAri Stickers StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "AmariAri Stickers StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0413A25522DFD7950095713C /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = "AmariAri Stickers StickerPackExtension/Stickers.xcstickers"; sourceTree = "<group>"; };
+		161F52A02899BEB2002C00F3 /* AmariAri Stickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AmariAri Stickers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		161F52A42899BEB2002C00F3 /* AmariAri Stickers StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "AmariAri Stickers StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		161F52A82899BEB2002C00F3 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = "AmariAri Stickers StickerPackExtension/Stickers.xcstickers"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
-		0413A24622DFD7940095713C = {
+		161F52992899BEB2002C00F3 = {
 			isa = PBXGroup;
 			children = (
-				0413A25522DFD7950095713C /* Stickers.xcstickers */,
-				0413A24E22DFD7940095713C /* Products */,
+				161F52A82899BEB2002C00F3 /* Stickers.xcstickers */,
+				161F52A12899BEB2002C00F3 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		0413A24E22DFD7940095713C /* Products */ = {
+		161F52A12899BEB2002C00F3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0413A24D22DFD7940095713C /* AmariAri Stickers.app */,
-				0413A25122DFD7950095713C /* AmariAri Stickers StickerPackExtension.appex */,
+				161F52A02899BEB2002C00F3 /* AmariAri Stickers.app */,
+				161F52A42899BEB2002C00F3 /* AmariAri Stickers StickerPackExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -63,28 +63,28 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0413A24C22DFD7940095713C /* AmariAri Stickers */ = {
+		161F529F2899BEB2002C00F3 /* AmariAri Stickers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0413A25E22DFD7950095713C /* Build configuration list for PBXNativeTarget "AmariAri Stickers" */;
+			buildConfigurationList = 161F52B12899BEB2002C00F3 /* Build configuration list for PBXNativeTarget "AmariAri Stickers" */;
 			buildPhases = (
-				0413A24B22DFD7940095713C /* Resources */,
-				0413A25D22DFD7950095713C /* Embed App Extensions */,
+				161F529E2899BEB2002C00F3 /* Resources */,
+				161F52B02899BEB2002C00F3 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				0413A25422DFD7950095713C /* PBXTargetDependency */,
+				161F52A72899BEB2002C00F3 /* PBXTargetDependency */,
 			);
 			name = "AmariAri Stickers";
 			productName = "AmariAri Stickers";
-			productReference = 0413A24D22DFD7940095713C /* AmariAri Stickers.app */;
+			productReference = 161F52A02899BEB2002C00F3 /* AmariAri Stickers.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
-		0413A25022DFD7950095713C /* AmariAri Stickers StickerPackExtension */ = {
+		161F52A32899BEB2002C00F3 /* AmariAri Stickers StickerPackExtension */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0413A25A22DFD7950095713C /* Build configuration list for PBXNativeTarget "AmariAri Stickers StickerPackExtension" */;
+			buildConfigurationList = 161F52AD2899BEB2002C00F3 /* Build configuration list for PBXNativeTarget "AmariAri Stickers StickerPackExtension" */;
 			buildPhases = (
-				0413A24F22DFD7950095713C /* Resources */,
+				161F52A22899BEB2002C00F3 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -92,81 +92,80 @@
 			);
 			name = "AmariAri Stickers StickerPackExtension";
 			productName = "AmariAri Stickers StickerPackExtension";
-			productReference = 0413A25122DFD7950095713C /* AmariAri Stickers StickerPackExtension.appex */;
+			productReference = 161F52A42899BEB2002C00F3 /* AmariAri Stickers StickerPackExtension.appex */;
 			productType = "com.apple.product-type.app-extension.messages-sticker-pack";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		0413A24722DFD7940095713C /* Project object */ = {
+		161F529A2899BEB2002C00F3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1220;
-				ORGANIZATIONNAME = WEBDMG;
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1330;
 				TargetAttributes = {
-					0413A24C22DFD7940095713C = {
-						CreatedOnToolsVersion = 10.2.1;
+					161F529F2899BEB2002C00F3 = {
+						CreatedOnToolsVersion = 13.3.1;
 					};
-					0413A25022DFD7950095713C = {
-						CreatedOnToolsVersion = 10.2.1;
+					161F52A32899BEB2002C00F3 = {
+						CreatedOnToolsVersion = 13.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 0413A24A22DFD7940095713C /* Build configuration list for PBXProject "AmariAri Stickers" */;
-			compatibilityVersion = "Xcode 9.3";
+			buildConfigurationList = 161F529D2899BEB2002C00F3 /* Build configuration list for PBXProject "AmariAri Stickers" */;
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 0413A24622DFD7940095713C;
-			productRefGroup = 0413A24E22DFD7940095713C /* Products */;
+			mainGroup = 161F52992899BEB2002C00F3;
+			productRefGroup = 161F52A12899BEB2002C00F3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0413A24C22DFD7940095713C /* AmariAri Stickers */,
-				0413A25022DFD7950095713C /* AmariAri Stickers StickerPackExtension */,
+				161F529F2899BEB2002C00F3 /* AmariAri Stickers */,
+				161F52A32899BEB2002C00F3 /* AmariAri Stickers StickerPackExtension */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		0413A24B22DFD7940095713C /* Resources */ = {
+		161F529E2899BEB2002C00F3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0413A25722DFD7950095713C /* Stickers.xcstickers in Resources */,
+				161F52AA2899BEB2002C00F3 /* Stickers.xcstickers in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		0413A24F22DFD7950095713C /* Resources */ = {
+		161F52A22899BEB2002C00F3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0413A25622DFD7950095713C /* Stickers.xcstickers in Resources */,
+				161F52A92899BEB2002C00F3 /* Stickers.xcstickers in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0413A25422DFD7950095713C /* PBXTargetDependency */ = {
+		161F52A72899BEB2002C00F3 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 0413A25022DFD7950095713C /* AmariAri Stickers StickerPackExtension */;
-			targetProxy = 0413A25322DFD7950095713C /* PBXContainerItemProxy */;
+			target = 161F52A32899BEB2002C00F3 /* AmariAri Stickers StickerPackExtension */;
+			targetProxy = 161F52A62899BEB2002C00F3 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0413A25822DFD7950095713C /* Debug */ = {
+		161F52AB2899BEB2002C00F3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
@@ -192,7 +191,6 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -211,7 +209,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -219,14 +217,13 @@
 			};
 			name = Debug;
 		};
-		0413A25922DFD7950095713C /* Release */ = {
+		161F52AC2899BEB2002C00F3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
@@ -252,7 +249,6 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -265,7 +261,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -273,72 +269,86 @@
 			};
 			name = Release;
 		};
-		0413A25B22DFD7950095713C /* Debug */ = {
+		161F52AE2899BEB2002C00F3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = 3PU85VZT37;
+				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "AmariAri Stickers StickerPackExtension/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				MARKETING_VERSION = 1.0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.amariari.stickers.StickerPackExtension;
+				INFOPLIST_KEY_CFBundleDisplayName = "AmariAri Stickers";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0.4;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.amariari.AmariAri-Stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		0413A25C22DFD7950095713C /* Release */ = {
+		161F52AF2899BEB2002C00F3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = 3PU85VZT37;
+				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "AmariAri Stickers StickerPackExtension/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				MARKETING_VERSION = 1.0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.amariari.stickers.StickerPackExtension;
+				INFOPLIST_KEY_CFBundleDisplayName = "AmariAri Stickers";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0.4;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.amariari.AmariAri-Stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		0413A25F22DFD7950095713C /* Debug */ = {
+		161F52B22899BEB2002C00F3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = 3PU85VZT37;
+				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "AmariAri Stickers/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				MARKETING_VERSION = 1.0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.amariari.stickers;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0.4;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.amariari.AmariAri-Stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		0413A26022DFD7950095713C /* Release */ = {
+		161F52B32899BEB2002C00F3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_TEAM = 3PU85VZT37;
+				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "AmariAri Stickers/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				MARKETING_VERSION = 1.0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = com.amariari.stickers;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MARKETING_VERSION = 1.0.4;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.amariari.AmariAri-Stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -346,34 +356,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0413A24A22DFD7940095713C /* Build configuration list for PBXProject "AmariAri Stickers" */ = {
+		161F529D2899BEB2002C00F3 /* Build configuration list for PBXProject "AmariAri Stickers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0413A25822DFD7950095713C /* Debug */,
-				0413A25922DFD7950095713C /* Release */,
+				161F52AB2899BEB2002C00F3 /* Debug */,
+				161F52AC2899BEB2002C00F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0413A25A22DFD7950095713C /* Build configuration list for PBXNativeTarget "AmariAri Stickers StickerPackExtension" */ = {
+		161F52AD2899BEB2002C00F3 /* Build configuration list for PBXNativeTarget "AmariAri Stickers StickerPackExtension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0413A25B22DFD7950095713C /* Debug */,
-				0413A25C22DFD7950095713C /* Release */,
+				161F52AE2899BEB2002C00F3 /* Debug */,
+				161F52AF2899BEB2002C00F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0413A25E22DFD7950095713C /* Build configuration list for PBXNativeTarget "AmariAri Stickers" */ = {
+		161F52B12899BEB2002C00F3 /* Build configuration list for PBXNativeTarget "AmariAri Stickers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0413A25F22DFD7950095713C /* Debug */,
-				0413A26022DFD7950095713C /* Release */,
+				161F52B22899BEB2002C00F3 /* Debug */,
+				161F52B32899BEB2002C00F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 0413A24722DFD7940095713C /* Project object */;
+	rootObject = 161F529A2899BEB2002C00F3 /* Project object */;
 }
